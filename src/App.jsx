@@ -10,27 +10,26 @@ import Home from "./components/Home";
 import Footer from "./components/Footer";
 
 const App = () => {
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    const timer = setTimeout(() => {
+    setLoading(true);
+    setTimeout(() => {
       setLoading(false);
     }, 1500);
-
-    // Cleanup the timer if the component unmounts before the timer ends
-    return () => clearTimeout(timer);
   }, []);
-
   return (
     <>
       {loading ? 
-        <div className="loading-screen">
+        <div className="bg-slate-900 h-[100vh] flex justify-center items-center">
           <BallTriangle
             height={100}
             width={100}
             radius={5}
             color="#5eead4"
             ariaLabel="ball-triangle-loading"
+            wrapperStyle={{}}
+            wrapperClass=""
             visible={true}
           />
         </div>

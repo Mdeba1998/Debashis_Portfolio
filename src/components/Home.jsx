@@ -4,6 +4,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import Typed from "typed.js";
 import pdf from "/profile/Debashis_Java_Developer.pdf";
+import "../styles/Home.css"
 
 const Home = () => {
   useEffect(() => {
