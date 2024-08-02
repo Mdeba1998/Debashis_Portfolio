@@ -1,0 +1,32 @@
+[
+    {
+      "id": 0,
+      "img": "/pmec.png",
+      "school": "PARALA MAHARAJA ENGINEERING COLLEGE, BERHAMPUR, ODISHA",
+      "degree": "Bachelor of Technology (B-Tech), Electrical Engineering",
+      "date": "Aug 2016 - Apr 2019",
+      "grade": "8.47 CGPA",
+      "university":"Biju Pattnaik University of Technology (BPUT), Odisha",
+      "desc": "I completed my B.Tech in Electrical Engineering at Parala Maharaja Engineering College (PMEC), Berhampur, Odisha with a CGPA of 8.47. The program provided a solid foundation in electrical systems, circuit design, and power systems. Through a blend of theoretical coursework and hands-on projects, I developed strong skills in designing and analyzing electrical circuits, preparing me for challenges in the field."
+    },
+    {
+      "id": 1,
+      "img": "/osme.png",
+      "school": "ORISSA SCHOOL OF MINING ENGINEERING, KEONJHAR, ODISHA ",
+      "degree": "Diploma, Electrical Engineering",
+      "date":"Aug 2013 - Apr 2016",
+      "grade":"70.91%",
+      "university":"State Council for Technical Education & Vocational Training (SCTE & VT), ODISHA",
+      "desc": "I completed a Diploma in Electrical Engineering at Orissa School of Mining Engineering (OSME), Keonjhar with a percentage of 70.91%. The program focused on fundamental electrical concepts, including circuit design, power systems, and maintenance. It offered practical skills and technical training essential for working effectively in the electrical engineering field."
+    },
+    {
+      "id": 2,
+      "img": "/bse.png",
+      "school": "M.P.C. HIGH SCHOOL, BETNOTI, MAYURBHANJ, ODISHA",
+      "degree": "HIGH SCHOOL:- Odisha Board.",
+      "date":"Apr 2013",
+      "grade":"88.16%",
+      "university":"Board of Secondary Education, Odisha",
+      "desc": "I completed my Class 10th education at M.P.C. High School, Betnoti, Mayurbhanj, Odisha. The curriculum provided a strong foundation in core subjects, preparing me for higher education with a focus on critical thinking and problem-solving skills."
+    }
+  ]

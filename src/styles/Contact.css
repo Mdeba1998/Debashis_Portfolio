@@ -1,0 +1,26 @@
+
+  /* Contact.css */
+  .contact {
+    padding: 2rem; /* Equivalent to p-8 */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-icon {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem; /* Equivalent to gap-6 */
+  }
+  
+  
+  
+  
+  .contact-icon a:hover {
+    color: rgb(167 243 208); /* Equivalent to hover:text-fuchsia-500 */
+  }
+  
+  
+  
+  

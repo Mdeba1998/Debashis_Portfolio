@@ -1,0 +1,30 @@
+/* Skills */
+
+.skills {
+    width: 900px;
+  }
+  
+  .skills .items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    /* width: 800px; */
+    margin: auto;
+    /* background-color: yellow; */
+  }
+  
+  .skills .items .item {
+    width: calc(33.33%);
+    background-color: black;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid yellow;
+    box-shadow: var(--box-shadow);
+  }
+  
+  .skills .items .item img {
+    width: 70px;
+  }

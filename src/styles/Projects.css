@@ -1,0 +1,16 @@
+.description {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  -webkit-line-clamp: 3; /* Show only 3 lines */
+  max-height: 4.5em; /* Adjust to fit 3 lines */
+  color: white;
+  text-align: justify;
+}
+
+.description.collapsed {
+  -webkit-line-clamp: 3; /* Show only 3 lines */
+  max-height: 4.5em; /* Adjust to fit 3 lines */
+}
+

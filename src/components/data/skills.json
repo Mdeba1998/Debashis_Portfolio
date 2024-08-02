@@ -1,0 +1,130 @@
+[
+  {
+    "key": 1,
+    "title": "FRONTEND",
+    "technologies": [
+      {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+      },
+      {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+      },
+      {
+        "title": "JavaScript",
+        "imageSrc": "skills/javascript.png"
+      },
+      {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.png"
+      },
+      {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+      },
+      {
+        "title": "Tailwind",
+        "imageSrc": "skills/tailwind.png"
+      }
+    ]
+  },
+  {
+    "key": 2,
+    "title": "BACKEND",
+    "technologies": [
+      {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+      },
+      {
+        "title": "Spring",
+        "imageSrc": "skills/spring.png"
+      },
+      {
+        "title": "Spring Boot",
+        "imageSrc": "skills/spring_boot.png"
+      },
+      {
+        "title": "Microservices",
+        "imageSrc": "skills/microservices.png"
+      },
+      {
+        "title": "Hibernate",
+        "imageSrc": "skills/hibernate.svg"
+      },
+      {
+        "title": "Maven",
+        "imageSrc": "skills/maven.png"
+      },
+      {
+        "title": "Gradle",
+        "imageSrc": "skills/gradle.png"
+      },
+      {
+        "title": "Kafka",
+        "imageSrc": "skills/kafka.png"
+      },
+      {
+        "title": "Zipkin",
+        "imageSrc": "skills/zipkin.svg"
+      }
+    ]
+  },
+  {
+    "key": 3,
+    "title": "DATABASE",
+    "technologies": [
+      {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
+      },
+      {
+        "title": "Oracle",
+        "imageSrc": "skills/oracle.png"
+      },
+      {
+        "title": "H2 Database",
+        "imageSrc": "skills/h2.svg"
+      }
+    ]
+  },
+  {
+    "key": 4,
+    "title": "TOOLS",
+    "technologies": [
+      {
+        "title": "Git",
+        "imageSrc": "skills/git.png"
+      },
+      {
+        "title": "GitHub",
+        "imageSrc": "skills/github.png"
+      },
+      {
+        "title": "Postman",
+        "imageSrc": "skills/postman.webp"
+      },
+      {
+        "title": "Tomcat",
+        "imageSrc": "skills/tomcat.png"
+      },
+      {
+        "title": "Eclipse",
+        "imageSrc": "skills/eclipse.svg"
+      },
+      {
+        "title": "STS",
+        "imageSrc": "skills/sts.png"
+      },
+      {
+        "title": "VS Code",
+        "imageSrc": "skills/vscode.webp"
+      },
+      {
+        "title": "SQL Developer",
+        "imageSrc": "skills/sql-developer.png"
+      }
+    ]
+  }
+]
