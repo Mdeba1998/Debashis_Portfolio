@@ -5,3 +5,12 @@
 .b_glow{
     box-shadow: 0 0 55px rgb(167 243 208);
 }
+
+.loading-screen {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e293b; /* Replace with bg-slate-900 or desired color */
+  }
