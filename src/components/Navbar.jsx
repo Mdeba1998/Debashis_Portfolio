@@ -58,7 +58,7 @@ const Navbar = () => {
       <div className="fixed top-0 left-0 right-0 z-50 text-white lg:py-3 px-10 py-4 bg-slate-900 border-b border-slate-800">
         <div className="flex justify-between items-center">
           <div className="flex items-center flex-1">
-            <span className="text-3xl font-bold lg:px-10">Logo</span>
+            <span className="text-3xl font-bold lg:px-10">Debashis</span>
           </div>
           <div className="hidden lg:flex lg:flex-1 items-center justify-end font-normal">
             <ul className="flex gap-8 mr-16 text-[18px]">
