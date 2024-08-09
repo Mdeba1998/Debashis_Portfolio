@@ -66,6 +66,7 @@ const Contact = () => {
           <FaSquareXTwitter />
         </a>
       </div>
+      <div style={{ marginTop: '20px' }}></div> {/* This adds space below the contact icons */}
     </div>
   );
 };

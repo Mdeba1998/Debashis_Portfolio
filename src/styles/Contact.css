@@ -12,6 +12,7 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 1.5rem; /* Equivalent to gap-6 */
+    margin-bottom: 20px;
   }
   
   
