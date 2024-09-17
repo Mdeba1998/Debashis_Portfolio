@@ -1,6 +1,23 @@
 [
   {
     "key": 1,
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/e-commerce.jpeg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "github": "https://github.com/Mdeba1998/E-Commerce",
+    "view": "https://raw.githubusercontent.com/Mdeba1998/E-Commerce/main/README.md?token=GHSAT0AAAAAACVRGDLLWUUS5YHS7ZKY4LIAZVKMJYQ",
+    "technologies": [
+      "Spring Boot",
+      "Lombok",
+      "Spring Data JPA",
+      "MySQL",
+      "React JS",
+      "Razor Pay"
+    ]
+  },
+  {
+    "key": 2,
     "title": "Hotel Booking",
     "imageSrc": "./projects/hotel.jpg",
     "description": "This project facilitates efficient management of hotel operations, enabling users to view available rooms with pricing details, make room reservations, and receive detailed invoice bills via email. Implemented features to calculate total invoice bills in real-time during the booking process, enhancing user experience and streamlining hotel management processes",
@@ -15,23 +32,6 @@
       "Java",
       "JDBC",
       "Servlet"
-    ]
-  },
-  {
-    "key": 2,
-    "title": "E-Commerce Website",
-    "imageSrc": "projects/e-commerce.jpeg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "github": "https://github.com/Mdeba1998/E-Commerce",
-    "view": "https://raw.githubusercontent.com/Mdeba1998/E-Commerce/main/README.md?token=GHSAT0AAAAAACVRGDLLWUUS5YHS7ZKY4LIAZVKMJYQ",
-    "technologies": [
-      "HTML",
-      "Teymeleaf",
-      "Spring MVC",
-      "Lombok",
-      "Spring Data JPA",
-      "MySQL"
     ]
   },
   {
@@ -100,6 +100,23 @@
       "Tailwind",
       "MUI",
       "Spring Boot",
+      "Lombok",
+      "Spring Data JPA",
+      "MySQL"
+    ]
+  },
+  {
+    "key": 7,
+    "title": "E-Commerce Website",
+    "imageSrc": "projects/e-commerce.jpeg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "github": "https://github.com/Mdeba1998/E-Commerce",
+    "view": "https://raw.githubusercontent.com/Mdeba1998/E-Commerce/main/README.md?token=GHSAT0AAAAAACVRGDLLWUUS5YHS7ZKY4LIAZVKMJYQ",
+    "technologies": [
+      "HTML",
+      "Teymeleaf",
+      "Spring MVC",
       "Lombok",
       "Spring Data JPA",
       "MySQL"
