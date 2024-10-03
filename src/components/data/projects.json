@@ -55,7 +55,7 @@
     "key": 4,
     "title": "Hospital Management",
     "imageSrc": "./projects/hospital.jpg",
-    "description": "This is a project made with complete React js.",
+    "description": "The Hospital Management System is a web-based application designed to efficiently manage hospital operations, including patient records, doctor schedules, appointments, and billing. Developed using Java Servlets, JDBC, HTML, CSS, and JSP, it provides a seamless interface for both staff and patients.The system allows for easy CRUD operations on patient and doctor data, appointment scheduling, and billing management, with a MySQL database ensuring secure data storage. By automating administrative tasks, the system enhances overall hospital efficiency and improves patient care.",
     "demo": "https://www.example.com",
     "github": "https://github.com/Mdeba1998/Hospital_Management",
     "view": "https://raw.githubusercontent.com/Mdeba1998/Hospital_Management/main/README.md",
