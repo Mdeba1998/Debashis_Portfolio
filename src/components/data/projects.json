@@ -8,12 +8,12 @@
     "github": "https://github.com/Mdeba1998/E-Commerce",
     "view": "https://raw.githubusercontent.com/Mdeba1998/E-Commerce/main/README.md?token=GHSAT0AAAAAACVRGDLLWUUS5YHS7ZKY4LIAZVKMJYQ",
     "technologies": [
-      "Spring Boot",
+      "HTML",
+      "Teymeleaf",
+      "Spring MVC",
       "Lombok",
       "Spring Data JPA",
-      "MySQL",
-      "React JS",
-      "Razor Pay"
+      "MySQL"
     ]
   },
   {
@@ -67,59 +67,6 @@
       "Java",
       "JDBC",
       "Servlet"
-    ]
-  },
-  {
-    "key": 5,
-    "title": "Online Food Ordering",
-    "imageSrc": "./projects/food.png",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "github": "https://www.github.com",
-    "view": "https://www.google.com",
-    "technologies": [
-      "React",
-      "Tailwind",
-      "MUI",
-      "Spring Boot",
-      "Lombok",
-      "Spring Data JPA",
-      "MySQL"
-    ]
-  },
-  {
-    "key": 6,
-    "title": "Live Stock Management",
-    "imageSrc": "./projects/livestock.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "github": "https://www.github.com",
-    "view": "https://www.google.com",
-    "technologies": [
-      "React",
-      "Tailwind",
-      "MUI",
-      "Spring Boot",
-      "Lombok",
-      "Spring Data JPA",
-      "MySQL"
-    ]
-  },
-  {
-    "key": 7,
-    "title": "E-Commerce Website",
-    "imageSrc": "projects/e-commerce.jpeg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "github": "https://github.com/Mdeba1998/E-Commerce",
-    "view": "https://raw.githubusercontent.com/Mdeba1998/E-Commerce/main/README.md?token=GHSAT0AAAAAACVRGDLLWUUS5YHS7ZKY4LIAZVKMJYQ",
-    "technologies": [
-      "HTML",
-      "Teymeleaf",
-      "Spring MVC",
-      "Lombok",
-      "Spring Data JPA",
-      "MySQL"
     ]
   }
 ]
