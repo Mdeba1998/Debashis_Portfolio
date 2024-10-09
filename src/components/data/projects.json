@@ -3,10 +3,10 @@
     "key": 1,
     "title": "E-Commerce Website",
     "imageSrc": "projects/e-commerce.jpeg",
-    "description": "This is a project made with complete React js.",
+    "description": "The e-commerce application is a platform designed to facilitate online buying and selling of products. It provides users with a convenient way to browse through a catalog of items, add them to a shopping cart, and complete the purchase through a secure checkout process. Also it provides the admin to add products, update products and delete products. Admin can also add discounts on products and also change the status of the orders. This documentation outlines the architecture, features, setup, development, testing, deployment, and maintenance of the e-commerce application developed using Spring Boot MVC.",
     "demo": "https://www.example.com",
     "github": "https://github.com/Mdeba1998/E-Commerce",
-    "view": "https://raw.githubusercontent.com/Mdeba1998/E-Commerce/main/README.md?token=GHSAT0AAAAAACVRGDLLWUUS5YHS7ZKY4LIAZVKMJYQ",
+    "view": "https://raw.githubusercontent.com/Mdeba1998/E-Commerce/main/README.md",
     "technologies": [
       "HTML",
       "Teymeleaf",
